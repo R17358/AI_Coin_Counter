@@ -34,11 +34,11 @@ pip install opencv-python numpy matplotlib flask streamlit
 
 ### Running the Application
 ```bash
-python app.py
+python coin_counter.py
 ```
 For Streamlit-based UI, run:
 ```bash
-streamlit run app.py
+streamlit run coin_counter.py
 ```
 
 ## Usage
